@@ -1,0 +1,60 @@
+body{
+
+    background-color:rgb(153, 152, 174);
+    background-repeat: no-repeat;
+    background-size: cover ;
+
+
+
+    .titulo {
+    font-family: 'Opensans';
+    font-size: 32px;
+    color: #ccc;
+    line-height: 18px;
+    margin-bottom: 20px;
+
+    position: absolute;
+            top: 16%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+    }
+
+    .texto {
+            font-family: 'Fira Sans Condensed';
+            font-size: 20px;
+            color: rgb(43, 42, 42);
+            position: absolute;
+            top: 50%;
+            left: 20%;
+            transform: translate(-50%, -50%);
+          }
+
+          .texto2 {
+            font-family: 'Fira Sans Condensed';
+            font-size: 20px;
+            color: rgb(43, 42, 42);
+            position: absolute;
+            top: 80%;
+            right: 5%;
+            transform: translate(-50%, -50%);
+          }
+
+         
+          .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        
+
+  
+          
+
+    
+}
+
